@@ -1,0 +1,22 @@
+{
+  "name": "My Pocket Recipes",
+  "short_name": "Pocket Recipes",
+  "start_url": ".",
+  "scope": ".",
+  "id": ".",
+  "display": "standalone",
+  "background_color": "#F5EFE0",
+  "theme_color": "#7A1E2A",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
